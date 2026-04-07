@@ -8,10 +8,12 @@ The system supports Doctor and Patient roles, enabling secure login, patient dat
 ---
 
 🚀 Features
+
 🔐 Authentication System
 User Registration (Doctor / Patient)
 Login validation using MySQL database
 Role-based access control
+
 👨‍⚕️ Doctor Dashboard
 Add patient details (Name, Age, Disease, Medicine)
 Delete patient records
@@ -19,13 +21,16 @@ Auto-fill form on row selection
 Search patient by name
 Patient data visualization (Chart)
 Generate OPD Slip automatically
+
 👤 Patient Dashboard
 View patient details (Read-only access)
 Simple and clean interface
+
 📊 Monitoring & Visualization
 Table view of all patients
 Bar chart for patient data analysis
 Dynamic UI updates
+
 🧾 OPD Slip Generation
 Automatically generated after adding patient
 Includes:
