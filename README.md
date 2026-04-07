@@ -1,6 +1,7 @@
 🏥 Healthcare Patient Monitoring & Management System:
 
-📌 Project Overview
+📌 Project Overview:
+
 This project is a JavaFX-based Healthcare Patient Monitoring Dashboard integrated with a MySQL database.
 It provides a complete solution for managing patient records, monitoring data, and generating OPD slips in a hospital environment.
 The system supports Doctor and Patient roles, enabling secure login, patient data handling, and visualization of patient information.
