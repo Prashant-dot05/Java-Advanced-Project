@@ -1,4 +1,4 @@
-🏥 Healthcare Patient Monitoring & Management System
+🏥 Healthcare Patient Monitoring & Management System:
 
 📌 Project Overview
 This project is a JavaFX-based Healthcare Patient Monitoring Dashboard integrated with a MySQL database.
@@ -7,7 +7,7 @@ The system supports Doctor and Patient roles, enabling secure login, patient dat
 
 ---
 
-🚀 Features
+🚀 Features:
 
 🔐 Authentication System
 User Registration (Doctor / Patient)
