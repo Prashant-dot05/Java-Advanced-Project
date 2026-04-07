@@ -1,9 +1,12 @@
 🏥 Healthcare Patient Monitoring & Management System
+
 📌 Project Overview
 This project is a JavaFX-based Healthcare Patient Monitoring Dashboard integrated with a MySQL database.
 It provides a complete solution for managing patient records, monitoring data, and generating OPD slips in a hospital environment.
 The system supports Doctor and Patient roles, enabling secure login, patient data handling, and visualization of patient information.
+
 ---
+
 🚀 Features
 🔐 Authentication System
 User Registration (Doctor / Patient)
@@ -30,7 +33,9 @@ Patient details
 Disease & Medicine
 Doctor name
 Cabin number
+
 ---
+
 🛠️ Technologies Used
 Language: Java
 UI Framework: JavaFX
@@ -57,7 +62,9 @@ src/
 ├── Patient.java
 ├── PatientDAO.java
 ```
+
 ---
+
 🗄️ Database Setup
 1️⃣ Create Database
 ```sql
@@ -85,6 +92,7 @@ CREATE TABLE patients (
 );
 ```
 ---
+
 ⚙️ Setup Instructions
 Clone or download the project
 Open in IntelliJ IDEA
@@ -106,24 +114,31 @@ Generate OPD Slip
 View chart & search
 Patient can:
 View records
+
 ---
+
 🎯 Future Enhancements
 Real-time health monitoring (BP, Heart Rate)
 PDF export for OPD slip
 Advanced analytics dashboard
 Password encryption (security)
 Multi-doctor cabin management
+
 ---
+
 📸 Screens (Concept)
 Login Page
 Register Page
 Doctor Dashboard
 Patient Dashboard
 OPD Slip
+
 ---
+
 📄 License
 This project is for educational purposes.
+
 ---
+
 ⭐ Conclusion
 This project demonstrates a complete healthcare system combining monitoring and management features, making it suitable for academic submission and real-world understanding.
----# Java-Advanced-Project
